@@ -4,7 +4,7 @@ Retail Analytics ETL Pipeline Project Adapted for the Olist Brazilian E-Commerce
 
 <img src="Images/Bronze layer.jpg" width="100%">
 <img src="Images/Bronze_olist_orders.jpg" width="100%">
-<img src="Images/Bronze_olist_customers.jpg" width="100%">
+<img src="Images/Bronze_olist_customers.jpg" width="50%">
 <img src="Images/Bronze_olist_geolocation.jpg" width="50%">
 <img src="Images/Bronze_olist_order_items.jpg" width="50%">
 <img src="Images/Bronze_olist_payments.jpg" width="50%">
