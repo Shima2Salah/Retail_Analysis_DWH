@@ -1,7 +1,7 @@
 # Retail_Analysis_DWH
 Retail Analytics ETL Pipeline Project Adapted for the Olist Brazilian E-Commerce
 
-<img src="Images/Database Diagram.jpg" width="100%">
+<img src="Images/Database Diagram.JPG" width="100%">
 <img src="Images/Bronze layer.jpg" width="100%">
 <img src="Images/Bronze_olist_orders.jpg" width="100%">
 <img src="Images/Bronze_olist_customers.jpg" width="50%">
